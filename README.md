@@ -13,10 +13,10 @@ This project integrates html and CSS to create an animal adoption questionnaire 
 
 This project seeks to educate individuals about Dr.Norman Borlaug and his contribution to the fight against hunger. 
 
-# [Project 2: Technical Documentation Page](https://codepen.io/aleebonham/pen/abqvwQN)
+# [Project 3: Technical Documentation Page](https://codepen.io/aleebonham/pen/abqvwQN)
 
 This project uses HTML and CSS coding to educate on some of the intricacies of JavaScript. 
 
-# [Project 2: Product Landing Page](https://codepen.io/aleebonham/pen/rNJBZMK)
+# [Project 4: Product Landing Page](https://codepen.io/aleebonham/pen/rNJBZMK)
 
 This project is an example of a website that a business owner might use to sell their product.
